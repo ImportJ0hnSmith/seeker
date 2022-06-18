@@ -93,7 +93,7 @@ def banner():
 	print(f'{G}[>] {C}Created By   : {W}thewhiteh4t')
 	print(f'{G} |---> {C}Twitter   : {W}{twitter_url}')
 	print(f'{G} |---> {C}Community : {W}{comms_url}')
-	print(f'{G}[>] {C}Config By    : {W}Johnsmith80')
+	print(f'{G}[>] {C}Configure By : {W}Johnsmith80')
 	print(f'{G}[>] {C}Version      : {W}{VERSION}\n')
 
 
